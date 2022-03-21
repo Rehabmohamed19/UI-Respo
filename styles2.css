@@ -1,0 +1,185 @@
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:wght@700;800&family=Poppins:wght@700&family=Prata&family=Zilla+Slab&display=swap');/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@800&family=Prata&family=Zilla+Slab&display=swap'); */
+/* @import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital@1&display=swap'); */
+@import url('https://fonts.googleapis.com/css2?family=Montserrat&family=Playfair+Display:wght@700;800&family=Prata&family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;800&family=Prata&family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Prata&family=Zilla+Slab&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Gwendolyn:wght@700&family=Lobster&family=Playfair+Display:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Hind:wght@500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+.nav-font{
+    font-size: 2.5vh;
+    font-family: 'Hind';
+    background-color: #fbf1fc;
+    border-radius: 30%;
+}
+.nav-font:hover{
+    background-color: #f6c8fa;
+}
+.nav-color{
+    color: rgb(219, 68, 199);
+}
+
+.nav-item{
+    padding: 0 21%;
+}
+
+  
+
+/* first banner */
+  
+.fo-container{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    margin-top: 4%;
+    background-image: url("./dount.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    text-align: center;
+}
+
+
+.txt-conatiner{
+    padding: 10% 0;
+}
+.fo-header{
+    font-family: 'Work-Sans';
+    color: #fbf1fc;
+    font-size: 6vw;
+    font-weight: 500;
+}
+.fo-miniheader{
+    color: #f9e9fb;
+    font-size: 4vw;
+}
+.txt{
+    font-weight: 600;
+    color: #fdfdfd;}
+
+/* second banner */
+
+.about{
+    width: 100%;
+    margin-left: 0;
+    margin-right: 0;
+    text-align: center;
+}
+.about-header{
+    font-size: 2vw;
+    font-weight: 400;
+    font-family: 'Montserrat';
+
+}
+.about-container{
+    padding: 5% 0;
+    display: inline-block;
+}
+.about-txt{
+font-family: 'zilla slab';  
+  font-size: 3vw;
+}
+.f{
+    font-family: 'Gwendolyn';
+    font-size: 7vh;
+}
+.container-edited{
+    text-align: center;
+    /* display: inline-block; */
+    margin: 0 auto
+}
+/* third banner */
+.pics-header{
+    font-size: 2vw;
+    font-weight: 400;
+    font-family: 'Montserrat';
+    padding: 26% 0;
+}
+.pics-text{
+font-size: 1.5vw;
+font-family: 'Prata';
+}
+.edited-col{
+    border: 1px solid #7e6c0a;
+}
+/* menu */
+.menu-header{
+    font-size: 2vw;
+    font-family: 'Montserrat';
+}
+.menu{
+    padding: 8% 0 4% 0;
+    text-align: center;
+    margin-right: 0% auto;
+}
+.menu-text{
+font-size: 4vw;
+font-family: 'Playfair Display', serif;
+}
+/* accordion */
+.fo-acc{
+    margin: 0% auto;
+  /* padding: 3% 0;
+    width: 40%; */
+}
+.info{
+    margin: 0% auto;
+    text-align: center;
+    padding: 5% 0 0 0;
+}
+tr{
+    font-family: 'Montserrat';
+    color: rgb(245, 245, 245);
+    background-color: rgb(161, 185, 216);
+}
+/* feed back */
+.feedback{
+    width: 41.5vw;
+    padding: 5vw 0;
+    text-align: center;
+    margin: 11vh auto;
+    background-color: #a1b9d8b3;
+}
+.fo-form{
+    color: black;
+    border: 1px solid lightseagreen;
+}
+.feedback-text {
+    margin-bottom: 8vh;
+    font-size: 4vw;
+    font-family: 'Montse';
+
+}
+/* footer */
+.footer-container{
+    margin: 0 auto;
+    /* width: 50%; */
+    background-color: rgb(245 228 247);
+    text-align: center;
+    padding: 1%;
+}
+.com-name{
+    /* text-align: center; */
+
+font-size: 2vw;
+}
+.copyrights{
+    /* text-align: center; */
+
+    font-size: 1vw;
+}
+
+.btn-size{
+    margin-top: 3vh;
+    /* padding: 1vh 0; */
+    width: 7vw;
+    height: 6vh;
+}
+.input-size{
+    margin: 0 auto;
+    width: 70%;
+}
+
+/*  */
